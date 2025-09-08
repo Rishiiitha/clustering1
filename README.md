@@ -77,3 +77,9 @@ A simple web application built with **Gradio** that predicts the student cluster
 
 ## 📄 Link: 
 https://huggingface.co/spaces/RishiiithaV/student_intelligence_cluster
+
+## output
+<img width="1891" height="783" alt="Screenshot 2025-09-08 143429" src="https://github.com/user-attachments/assets/6de7d068-56e4-4234-832d-98e0217bd688" />
+
+<img width="1907" height="481" alt="image" src="https://github.com/user-attachments/assets/855db677-fa7c-47d6-ae19-e7b9c0029ef4" />
+
