@@ -1,0 +1,4 @@
+For the given dataset, perform clustering using KMeans, Hierarchical Clustering, and DBSCAN. 
+Compare the results using evaluation metrics (e.g., Silhouette Score, ARI) and visualizations. 
+Interpret the clusters in terms of the dataset context (e.g., customer segments, patient groups, wine types). 
+Finally, discuss which clustering algorithm is most suitable for the dataset and why.
