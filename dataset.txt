@@ -1,4 +1,9 @@
-For the given dataset, perform clustering using KMeans, Hierarchical Clustering, and DBSCAN. 
-Compare the results using evaluation metrics (e.g., Silhouette Score, ARI) and visualizations. 
-Interpret the clusters in terms of the dataset context (e.g., customer segments, patient groups, wine types). 
-Finally, discuss which clustering algorithm is most suitable for the dataset and why.
+User Knowledge Clustering using K-Means¶
+Overview
+Background
+User knowledge is where a person who uses knowledge generated through research to make informed decisions about policies, programs and/or best practices. This dataset was part of the Ph.D. Thesis of Dr. Hamdi Tolga Kahraman from Turkey back in 2009. It is an unlabelled dataset containing 5 features as explained in the column descriptions. The data contains real information about the student's knowledge status about the subject of Electrical DC Machines. The insipiration is to find clusters within data, explore their properties and make meaningful conclusions and actions / recommendations that might add value to the process from where the data was obtained.
+@ STG (The degree of study time for goal object materials)
+@ SCG (The degree of repetition number of user for goal object materials)
+@ STR (The degree of study time of user for related objects with goal object)
+@ LPR (The exam performance of user for related objects with goal object)
+@ PEG (The exam performance of user for goal objects)
